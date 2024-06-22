@@ -40,4 +40,4 @@ I'm always open to connect with fellow tech enthusiasts, gamers, and anyone inte
 
 ## GitHub Stats 📊
 
-![Sarthak's Github stats](https://github-readme-stats.vercel.app/api?username=SarthakTechie&show_icons=true&theme=buefy)
+![Sarthak's Github stats](https://github-readme-stats.vercel.app/api?username=SarthakTechie&show_icons=true&theme=tokyonight)
