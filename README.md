@@ -37,3 +37,7 @@ Feel free to reach out to me on various platforms:
 - 🤖 **Reddit:** https://www.reddit.com/u/sarthaktechie/s/jq5elhK9WH
 
 I'm always open to connect with fellow tech enthusiasts, gamers, and anyone interested in crypto. Let's collaborate and learn together!
+
+## GitHub Stats 📊
+
+![Sarthak's Github stats](https://github-readme-stats.vercel.app/api?username=SarthakTechie&show_icons=true&theme=buefy)
