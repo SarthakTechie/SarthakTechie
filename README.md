@@ -22,9 +22,10 @@ Here's a list of tools and environments I primarily use:
 
 ## Interests 💡
 
-- 🌐 **Crypto Enthusiast:** Exploring the world of cryptocurrencies.
+- 🪙 **Crypto Enthusiast:** Exploring the world of cryptocurrencies.
 - 💻 **Linux Systems:** Customizing and optimizing Linux distributions.
 - 🕹️ **Gaming:** Casual gaming in my free time.
+- 🎨 **Drawing:** I enjoy drawing when ever I feel stressed.
 
 ## Get in Touch 📬
 
