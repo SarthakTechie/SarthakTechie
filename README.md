@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Sarthak, a high school student with a passion 
 Here's a list of tools and environments I primarily use:
 
 - **Code Editors & IDEs:**
-  - 🖥️ VSCodium
+  - 🖥️ VSCode
   - 📝 NeoVim
   - 🐍 PyCharm Community Edition
   - ✒️ Kate
