@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Sarthak, a high school student with a passion 
 - 🎓 **High School Student:** Balancing school and my tech interests.
 - 🐧 **Linux Nerd:** Proud user of Arch and Debian. 
 - 🚀 **Tech Enthusiast:** Always excited about the latest in tech and software.
-- 🐍 **Beginner Programmer:** Currently diving into the world of Python.
+- 🌐 **Beginner Programmer:** Currently diving into the world of Python and Web Dev.
 - 🎮 **Casual Gamer:** Love to unwind with some gaming.
 
 ## Tools & Technologies 🔧
