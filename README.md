@@ -32,7 +32,6 @@ Here's a list of tools and environments I primarily use:
 Feel free to reach out to me on various platforms:
 
 - 🐦 **Twitter:** [x.com/sarthaktechie/](https://x.com/SarthakTechie?t=NeRmYw5PF1R1nPlUQnuqdg&s=09)
-- 💬 **Discord:** http://discordapp.com/users/1235965850176061532
 - 📲 **Telegram:** http://t.me/sarthaktechie
 - 📧 **Email:** sarthaktechie@gmail.com
 - 🤖 **Reddit:** https://www.reddit.com/u/sarthaktechie/s/jq5elhK9WH
