@@ -32,8 +32,6 @@ Welcome to my GitHub profile! I'm Sarthak, a high school student with a passion 
 
 ## Get in Touch 📬
 
-Feel free to reach out to me on various platforms:
-
 <p align="center">
   <a href="https://x.com/SarthakTechie?t=NeRmYw5PF1R1nPlUQnuqdg&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
