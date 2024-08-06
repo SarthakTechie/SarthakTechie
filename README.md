@@ -12,32 +12,54 @@ Welcome to my GitHub profile! I'm Sarthak, a high school student with a passion 
 
 ## Tools & Technologies 🔧
 
-Here's a list of tools and environments I primarily use:
-
-- **Code Editors & IDEs:**
-  - 🖥️ VSCode
-  - 📝 NeoVim
-  - 🐍 PyCharm Community Edition
-  - ✒️ Kate
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Kate-59A3DB?style=for-the-badge&logo=kate&logoColor=white" alt="Kate" />
+</p>
 
 ## Interests 💡
 
 - 🪙 **Crypto Enthusiast:** Exploring the world of cryptocurrencies.
 - 💻 **Linux Systems:** Customizing and optimizing Linux distributions.
 - 🕹️ **Gaming:** Casual gaming in my free time.
-- 🎨 **Drawing:** I enjoy drawing when ever I feel stressed.
+- 🎨 **Drawing:** I enjoy drawing whenever I feel stressed.
 
 ## Get in Touch 📬
 
 Feel free to reach out to me on various platforms:
 
-- 🐦 **Twitter:** [x.com/sarthaktechie/](https://x.com/SarthakTechie?t=NeRmYw5PF1R1nPlUQnuqdg&s=09)
-- 📲 **Telegram:** http://t.me/sarthaktechie
-- 📧 **Email:** sarthaktechie@gmail.com
-- 🤖 **Reddit:** https://www.reddit.com/u/sarthaktechie/s/jq5elhK9WH
+- 🐦 **Twitter:** [x.com/sarthaktechie](https://x.com/SarthakTechie?t=NeRmYw5PF1R1nPlUQnuqdg&s=09)
+- 📲 **Telegram:** [t.me/sarthaktechie](http://t.me/sarthaktechie)
+- 📧 **Email:** [sarthaktechie@gmail.com](mailto:sarthaktechie@gmail.com)
+- 🤖 **Reddit:** [u/sarthaktechie](https://www.reddit.com/u/sarthaktechie/s/jq5elhK9WH)
 
-I'm always open to connect with fellow tech enthusiasts, gamers, and anyone interested in crypto. Let's collaborate and learn together!
+I'm always open to connecting with fellow tech enthusiasts, gamers, and anyone interested in crypto. Let's collaborate and learn together!
 
 ## GitHub Stats 📊
 
-![Sarthak's Github stats](https://github-readme-stats.vercel.app/api?username=SarthakTechie&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SarthakTechie&show_icons=true&theme=tokyonight" alt="Sarthak's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakTechie&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+## Pinned Repositories 📌
+
+<p align="center">
+  <a href="https://github.com/SarthakTechie/SarthakTechie.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakTechie&repo=SarthakTechie.github.io&theme=tokyonight" alt="Portfolio Website" />
+  </a>
+  <a href="https://github.com/SarthakTechie/awesome-wm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakTechie&repo=awesome-wm&theme=tokyonight" alt="Awesome WM" />
+  </a>
+  <a href="https://github.com/SarthakTechie/Tic-Tac-Toe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakTechie&repo=Tic-Tac-Toe&theme=tokyonight" alt="Tic-Tac-Toe Game" />
+  </a>
+</p>
+
+Let's make something awesome together! 🚀
