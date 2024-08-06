@@ -45,6 +45,9 @@ Welcome to my GitHub profile! I'm Sarthak, a high school student with a passion 
   <a href="https://www.reddit.com/u/sarthaktechie/s/jq5elhK9WH" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
+   <a href="http://discordapp.com/users/1235965850176061532" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 I'm always open to connecting with fellow tech enthusiasts, gamers, and anyone interested in crypto. Let's collaborate and learn together!
