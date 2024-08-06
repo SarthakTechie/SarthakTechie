@@ -2,9 +2,7 @@
 
 Welcome to my GitHub profile! I'm Sarthak, a high school student with a passion for technology and a love for learning. Here's a bit about me:
 
-<p align="center">
-  <h2>About Me 🧑‍💻</h2>
-</p>
+## About Me 🧑‍💻
 
 - 🎓 **High School Student:** Balancing school and my tech interests.
 - 🐧 **Linux Nerd:** Proud user of Arch and Debian. 
@@ -12,9 +10,7 @@ Welcome to my GitHub profile! I'm Sarthak, a high school student with a passion 
 - 🌐 **Beginner Programmer:** Currently diving into the world of Python and Web Dev.
 - 🎮 **Casual Gamer:** Love to unwind with some gaming.
 
-<p align="center">
-  <h2>Tools & Technologies 🔧</h2>
-</p>
+## Tools & Technologies 🔧
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -27,25 +23,14 @@ Welcome to my GitHub profile! I'm Sarthak, a high school student with a passion 
   <img src="https://img.shields.io/badge/Kate-59A3DB?style=for-the-badge&logo=kate&logoColor=white" alt="Kate" />
 </p>
 
-<p align="center">
-  <h2>Interests 💡</h2>
-</p>
+## Interests 💡
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Crypto-2F8EEC?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Crypto Enthusiast" />
-  <img src="https://img.shields.io/badge/Linux-326a4d?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Systems" />
-  <img src="https://img.shields.io/badge/Gaming-7289DA?style=for-the-badge&logo=steam&logoColor=white" alt="Gaming" />
-  <img src="https://img.shields.io/badge/Drawing-FF6347?style=for-the-badge&logo=paintbrush&logoColor=white" alt="Drawing" />
-</p>
-
-- 🪙 **Crypto Enthusiast:** Exploring the world of cryptocurrencies, especially interested in BTC, ETH, and DOGE.
+- 🪙 **Crypto Enthusiast:** Exploring the world of cryptocurrencies.
 - 💻 **Linux Systems:** Customizing and optimizing Linux distributions.
 - 🕹️ **Gaming:** Casual gaming in my free time.
 - 🎨 **Drawing:** I enjoy drawing whenever I feel stressed.
 
-<p align="center">
-  <h2>Get in Touch 📬</h2>
-</p>
+## Get in Touch 📬
 
 <p align="center">
   <a href="https://x.com/SarthakTechie?t=NeRmYw5PF1R1nPlUQnuqdg&s=09" target="_blank">
@@ -60,25 +45,21 @@ Welcome to my GitHub profile! I'm Sarthak, a high school student with a passion 
   <a href="https://www.reddit.com/u/sarthaktechie/s/jq5elhK9WH" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
+  <a href="http://discordapp.com/users/1235965850176061532" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
 I'm always open to connecting with fellow tech enthusiasts, gamers, and anyone interested in crypto. Let's collaborate and learn together!
 
-<p align="center">
-  <h2>GitHub Stats 📊</h2>
-</p>
+## GitHub Stats 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SarthakTechie&show_icons=true&theme=tokyonight" alt="Sarthak's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakTechie&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <h2>Pinned Repositories 📌</h2>
-</p>
+## Pinned Repositories 📌
 
 <p align="center">
   <a href="https://github.com/SarthakTechie/SarthakTechie.github.io">
