@@ -44,10 +44,4 @@ HTML, CSS, Javascript and Python as a beginner.
   <a href="mailto:sarthaktechie@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.reddit.com/u/sarthaktechie/s/jq5elhK9WH" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-  </a>
-  <a href="http://discordapp.com/users/1235965850176061532" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </p>
