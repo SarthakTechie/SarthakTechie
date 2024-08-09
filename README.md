@@ -4,7 +4,7 @@ I’m a student, Linux enthusiast, and beginner programmer exploring the world o
 
 ![GitHub followers](https://img.shields.io/github/followers/SarthakTechie?style=social) ![GitHub stars](https://img.shields.io/github/stars/SarthakTechie?style=social)
 
-## 🔧 I’m currently working with...
+## 🔧 I’m currently working with ...
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -21,7 +21,7 @@ I’m a student, Linux enthusiast, and beginner programmer exploring the world o
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Kate](https://img.shields.io/badge/Kate-59A3DB?style=for-the-badge&logo=kate&logoColor=white)
 
-## 🌱 I’m currently perfecting...
+## 🌱 I’m currently perfecting ...
 
 HTML, CSS, Javascript and Python as a beginner.
 
@@ -32,7 +32,7 @@ HTML, CSS, Javascript and Python as a beginner.
 - 🕹️ **Gaming:** Casual gaming in my free time.
 - 🎨 **Drawing:** I enjoy drawing whenever I feel stressed.
 
-## 📧 You can find me here...
+## 📧 You can find me here ...
 
 <p align="left">
   <a href="https://x.com/SarthakTechie?t=NeRmYw5PF1R1nPlUQnuqdg&s=09" target="_blank">
