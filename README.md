@@ -23,7 +23,7 @@ I’m a student, Linux enthusiast, and beginner programmer exploring the world o
 
 ## 🌱 I’m currently perfecting...
 
-Html, Css, Js and python as a beginner.
+HTML, CSS, Javascript and Python as a beginner.
 
 ## ✍️ Hobbies and Interests...
 
