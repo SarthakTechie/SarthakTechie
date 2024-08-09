@@ -1,38 +1,40 @@
-# Hi there! 👋
+# Hi there 👋, I'm Sarthak 🧑‍💻
 
-Welcome to my GitHub profile! I'm Sarthak, a high school student with a passion for technology and a love for learning. Here's a bit about me:
+I’m a student, Linux enthusiast, and beginner programmer exploring the world of tech with a focus on Python and web development. I’m passionate about open-source, cryptocurrencies, and gaming. Welcome to my little corner of the coding universe! 🌌
 
-## About Me 🧑‍💻
+![GitHub followers](https://img.shields.io/github/followers/SarthakTechie?style=social) ![GitHub stars](https://img.shields.io/github/stars/SarthakTechie?style=social)
 
-- 🎓 **High School Student:** Balancing school and my tech interests.
-- 🐧 **Linux Nerd:** Proud user of Arch and Debian. 
-- 🚀 **Tech Enthusiast:** Always excited about the latest in tech and software.
-- 🌐 **Beginner Programmer:** Currently diving into the world of Python and Web Dev.
-- 🎮 **Casual Gamer:** Love to unwind with some gaming.
+## 🔧 I’m currently working with...
 
-## Tools & Technologies 🔧
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Kate-59A3DB?style=for-the-badge&logo=kate&logoColor=white" alt="Kate" />
-</p>
+### Backend
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## Interests 💡
+### Tools
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Kate](https://img.shields.io/badge/Kate-59A3DB?style=for-the-badge&logo=kate&logoColor=white)
 
-- 🪙 **Crypto Enthusiast:** Exploring the world of cryptocurrencies.
-- 💻 **Linux Systems:** Customizing and optimizing Linux distributions.
+## 🌱 I’m currently perfecting...
+
+Html, Css, Js and python as a beginner.
+
+## ✍️ Hobbies and Interests...
+
+- 🪙 **Crypto Currencies:** I enjoy exploring the world of cryptocurrencies such as Bitcoin, Ethereum and Dogecoin.
+- 🐧 **Linux Systems:** Customizing and optimizing Linux distributions.
 - 🕹️ **Gaming:** Casual gaming in my free time.
 - 🎨 **Drawing:** I enjoy drawing whenever I feel stressed.
 
-## Get in Touch 📬
+## 📧 You can find me here...
 
-<p align="center">
+<p align="left">
   <a href="https://x.com/SarthakTechie?t=NeRmYw5PF1R1nPlUQnuqdg&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
@@ -49,28 +51,3 @@ Welcome to my GitHub profile! I'm Sarthak, a high school student with a passion 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
-
-I'm always open to connecting with fellow tech enthusiasts, gamers, and anyone interested in crypto. Let's collaborate and learn together!
-
-## GitHub Stats 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarthakTechie&show_icons=true&theme=tokyonight" alt="Sarthak's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakTechie&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-## Pinned Repositories 📌
-
-<p align="center">
-  <a href="https://github.com/SarthakTechie/SarthakTechie.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakTechie&repo=SarthakTechie.github.io&theme=tokyonight" alt="Portfolio Website" />
-  </a>
-  <a href="https://github.com/SarthakTechie/awesome-wm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakTechie&repo=awesome-wm&theme=tokyonight" alt="Awesome WM" />
-  </a>
-  <a href="https://github.com/SarthakTechie/Tic-Tac-Toe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarthakTechie&repo=Tic-Tac-Toe&theme=tokyonight" alt="Tic-Tac-Toe Game" />
-  </a>
-</p>
-
-Let's make something awesome together! 🚀
